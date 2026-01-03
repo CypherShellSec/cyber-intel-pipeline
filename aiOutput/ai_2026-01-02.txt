@@ -1,0 +1,20 @@
+URL: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/
+SUMMARY:
+The article from BleepingComputer reports that OpenAI is offering one month of free ChatGPT Plus subscription to some users who have already subscribed at $20 per month. This offer is being gradually rolled out and the user, a Flutter/Dart developer, found it after deciding to cancel their subscription due to preferring Claude for their use cases. The offer automatically switched the next renewal to free ($0/month), but it will revert back to the paid price around late February 2026 unless changed.
+
+
+URL: https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/
+SUMMARY:
+In 2025, notable cybersecurity events included the ShinyHunters extortion gang threatening to release sensitive data of PornHub users, ClickFix attacks using social engineering to infect machines with malware, a $1.5 billion Ethereum theft from ByBit's cold wallet linked to North Korea's Lazarus hacking group, and Oracle being targeted in a widespread data theft campaign exploiting multiple zero-day vulnerabilities. Other events included record-breaking DDoS attacks, increased targeting of developers through open-source package repositories, and the rise of North Korean IT workers infiltrating Western companies. Insider threats also had a significant impact, leading to large-scale damage in various industries.
+
+
+URL: https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/
+SUMMARY:
+The fourth wave of the GlassWorm campaign targets macOS developers with malicious VSCode/OpenVSX extensions that deliver trojanized versions of crypto wallet applications. The recent attacks use AES-256-CBC–encrypted payloads embedded in compiled JavaScript, and execute after a 15-minute delay to evade analysis. The malware attempts to steal credentials for GitHub, npm, OpenVSX accounts, cryptocurrency wallet data, Keychain passwords, and replaces hardware cryptocurrency wallet apps like Ledger Live and Trezor Suite with trojanized versions. Developers who have installed the affected extensions are recommended to remove them immediately and take additional security measures.
+
+
+URL: https://www.security.com/expert-perspectives/note-self-2027
+SUMMARY:
+In 2026, the focus on defense strategies led by Incident Summaries, Threat Tracer, Incident Prediction, and Zero Trust initiative significantly improved the SOC team's productivity and effectiveness in predicting and preventing attacks. The implementation of AI-powered tools reduced alert fatigue, streamlined investigations, and enhanced mean-time-to-remediation (MTTR). Furthermore, stronger DLP protections and policies for LLM and AI agent use ensured secure handling of sensitive data. The year was marked by a significant reduction in stress levels and an increase in productivity. Alisha Smith, Head of Product Marketing at Broadcom's Enterprise Security Group, authored the article highlighting these achievements.
+
+
