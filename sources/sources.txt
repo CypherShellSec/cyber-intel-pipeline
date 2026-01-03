@@ -1,0 +1,12 @@
+https://www.bleepingcomputer.com/feed/
+https://cyberscoop.com/feed/
+https://www.cisa.gov/cybersecurity-advisories/all.xml
+https://www.darkreading.com/rss.xml
+https://blog.talosintelligence.com/rss/
+https://www.security.com/rss/v1/blogs/rss.xml
+https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/feed/
+https://www.rapid7.com/rss.xml
+https://www.intel471.com/blog/feed
+https://blog.cloudflare.com/tag/threat-intelligence/rss
+https://krebsonsecurity.com/feed/
+https://thedfirreport.com/feed/
