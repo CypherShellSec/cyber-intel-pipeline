@@ -1,4 +1,6 @@
 # Cyber Intel Pipeline
+<img width="1536" height="768" alt="image" src="https://github.com/user-attachments/assets/9727c9f0-6e75-4c4a-87b3-fb8bb3b40c76" />
+
 Daily pipeline of domestic and international news, vulns, PoCs, laws, etc.
 This project uses rss feeds for various security news and threat intelligence websites, extracts article links, parses article body text, and then uses a local LLM for automated article summarization.
 
